@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-I am Olexandr!!
+I am Olexandr, professional software developer!!
 <!--
 **olexandrchen998765/olexandrchen998765** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
